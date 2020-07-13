@@ -5,8 +5,7 @@ My name is Gabriel Melo Cavalcante and I am
 a front-end web developer with great passion for Javascript, React and
 React Native.
 
-![javascript-icon](javascript-icon.png)
-![react-icon](react-icon.png)
+<img src="javascript-icon.png" width="120" height="120" alt="Javascript Icon"/> <img src="react-icon.jpg" width="120" height="120" alt="React Icon"/>
 
 ## My focus
 I am currently focusing on improving my skills and building up my image
