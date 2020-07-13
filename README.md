@@ -1,16 +1,22 @@
-### Hi there 👋
+### Gabriel Cavalcante
 
-<!--
-**GabrielMCavalcante/GabrielMCavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my profile! 
+My name is Gabriel Melo Cavalcante and I am
+a front-end web developer with great passion for Javascript, React and
+React Native.
 
-Here are some ideas to get you started:
+![javascript-icon](javascript-icon.png)
+![react-icon](react-icon.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My focus
+I am currently focusing on improving my skills and building up my image
+to find a first-time internship opportunity to enhance my experiences with
+coding and teamwork.
+
+## How to reach me
+If you want to see what I´ve been doing, you can visit my hosted portfolio
+[here](https://gabrielcavalcante-portfolio.web.app/)
+
+Also, if you want to contact me, you can reach out to my [LinkedIn](), or
+send a email to contato.gabrielmcavalcante@gmail.com. I will be very happy to
+talk with you 😄!
