@@ -4,7 +4,7 @@
 My name is Gabriel Melo Cavalcante and I am
 a front-end web developer with great passion for Javascript - Typescript and ReactJS.
 
-<img src="https://github.com/GabrielMCavalcante/GabrielMCavalcante/blob/master/javascript-icon.png" width="120" height="120" alt="Javascript Icon"/> <img src="https://github.com/GabrielMCavalcante/GabrielMCavalcante/blob/master/react-icon.jpg" width="120" height="120" alt="React Icon"/>
+<img src="https://github.com/GabrielMCavalcante/GabrielMCavalcante/blob/master/javascript-icon.png" width="120" height="120" alt="Javascript Icon"/> <img src="https://github.com/GabrielMCavalcante/GabrielMCavalcante/blob/master/typescript-icon.jpg" width="120" height="120" alt="Typescript Icon"/> <img src="https://github.com/GabrielMCavalcante/GabrielMCavalcante/blob/master/react-icon.jpg" width="120" height="120" alt="React Icon"/> 
 
 ## My focus
 I am currently focusing on improving my skills and building up my image
