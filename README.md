@@ -1,4 +1,4 @@
-### Gabriel Cavalcante
+# Gabriel Cavalcante
 
 ## Welcome to my profile! 
 My name is Gabriel Melo Cavalcante and I am
