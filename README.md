@@ -16,6 +16,6 @@ coding and teamwork.
 If you want to see what I´ve been doing, you can visit my hosted portfolio
 [here](https://gabrielcavalcante-portfolio.web.app/)
 
-Also, if you want to contact me, you can reach out to my [LinkedIn](), or
+Also, if you want to contact me, you can reach out to my [LinkedIn](https://linkedin.com/in/gabrielmcavalcante), or
 send a email to contato.gabrielmcavalcante@gmail.com. I will be very happy to
 talk with you 😄!
