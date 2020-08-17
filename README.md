@@ -1,21 +1,40 @@
-# Gabriel Cavalcante
+### Hi there, I'm Gabriel Cavalcante 👋
 
-## Welcome to my profile! 
-My name is Gabriel Melo Cavalcante and I am
-a ReactJS, React Native and NodeJS developer with passion for Typescript!
+[![Portfolio](https://img.shields.io/website?label=My&nbsp;Portfolio&style=for-the-badge&url=https://gabrielcavalcante-portfolio.web.app)](https://gabrielcavalcante-portfolio.web.app)
 
-<img src="https://github.com/GabrielMCavalcante/GabrielMCavalcante/blob/master/javascript-icon.png" width="120" height="120" alt="Javascript Icon"/> <img src="https://github.com/GabrielMCavalcante/GabrielMCavalcante/blob/master/typescript-icon.jpg" width="120" height="120" alt="Typescript Icon"/> <img src="https://github.com/GabrielMCavalcante/GabrielMCavalcante/blob/master/react-icon.jpg" width="120" height="120" alt="React Icon"/> <img src="https://github.com/GabrielMCavalcante/GabrielMCavalcante/blob/master/node-js-icon.png" width="120" height="120" alt="NodeJS Icon"/> 
+## I'm a ReactJS, React Native and NodeJS developer!
 
-## My focus
-I am currently working on improving my [Proffy](https://github.com/GabrielMCavalcante/projeto-proffy-next-level-week)
-I am studying backend development with Java and Spring
+- 🔭 I’m currently working on improving my version on the [Proffy](https://github.com/GabrielMCavalcante/projeto-proffy-next-level-week) project from Rocketseat!
+- 🌱 I’m currently learning backend with Java and Spring.
+- 💡 I´m currently looking for an internship opportunity.
+- 🥅 2020 Goals: Learn backend with Java and improve React / React Native skills.
 
-## How to reach me
-If you want to see what I´ve been doing, you can visit my hosted portfolio
-[here](https://gabrielcavalcante-portfolio.web.app/)
+### Connect with me:
 
-I have an profile on the Rocketseat website, [here](https://app.rocketseat.com.br/me/gabriel-melo-cavalcante-03196)!
+[<img align="left" alt="Gabriel Cavalcante | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gabrielmcavalcante/)
+[<img align="left" alt="Gabriel Cavalcante | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://gabrielcavalcante-portfolio.web.app/)
+[<img align="left" alt="Gabriel Cavalcante | Rocketseat" width="22px" src="https://blog.rocketseat.com.br/favicon.png" />](https://app.rocketseat.com.br/me/gabriel-melo-cavalcante-03196)
 
-Also, if you want to contact me, you can reach out to my [LinkedIn](https://linkedin.com/in/gabrielmcavalcante), or
-send a email to contato.gabrielmcavalcante@gmail.com. I will be very happy to
-talk with you 😄!
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
+[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]()
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
+
+<br />
+<br />
+
+---
+
+[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabrielmcavalcante)](https://github.com/anuraghazra/github-readme-stats)
