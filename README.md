@@ -1,7 +1,5 @@
 ### Hi there, I'm Gabriel Cavalcante 👋
 
-[![Portfolio](https://img.shields.io/website?label=My&nbsp;Portfolio&style=for-the-badge&url=https://gabrielcavalcante-portfolio.web.app)](https://gabrielcavalcante-portfolio.web.app)
-
 ## I'm a ReactJS, React Native and NodeJS developer!
 
 - 🔭 I’m currently working on improving my version on the [Proffy](https://github.com/GabrielMCavalcante/projeto-proffy-next-level-week) project from Rocketseat!
@@ -12,7 +10,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Gabriel Cavalcante | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gabrielmcavalcante/)
-[<img align="left" alt="Gabriel Cavalcante | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://gabrielcavalcante-portfolio.web.app/)
 [<img align="left" alt="Gabriel Cavalcante | Rocketseat" width="22px" src="https://blog.rocketseat.com.br/favicon.png" />](https://app.rocketseat.com.br/me/gabriel-melo-cavalcante-03196)
 
 
