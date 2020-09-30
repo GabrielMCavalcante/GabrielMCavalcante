@@ -2,8 +2,7 @@
 
 ## I'm a ReactJS, React Native and NodeJS developer!
 
-- 🔭 I’m currently working on improving my version on the [Proffy](https://github.com/GabrielMCavalcante/projeto-proffy-next-level-week) project from Rocketseat!
-- 🌱 I’m currently learning backend with Java and Spring.
+- 🌱 I’m currently learning Kotlin for Android development.
 - 💡 I´m currently looking for an internship opportunity.
 - 🥅 2020 Goals: Learn backend with Java and improve React / React Native skills.
 
