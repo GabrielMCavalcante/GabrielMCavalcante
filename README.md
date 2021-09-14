@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel Cavalcante 👋
 
-## I'm a Java | Kotlin developer
+## I'm a Java | Kotlin Android developer
 
 - 🌱 I’m currently working on a remote internship.
 - 💡 I´m always looking for new challenges and opportunities.
