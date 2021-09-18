@@ -10,6 +10,7 @@
 
 [<img align="left" alt="Gabriel Cavalcante | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gabrielmcavalcante/)
 
+[<img align="left" alt="Gabriel Cavalcante | Google Developer Profile" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/google/google.png" />](https://developers.google.com/profile/u/109513786150026813541?utm_source=developer.android.com)
 
 <br />
 
