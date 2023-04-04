@@ -2,9 +2,9 @@
 
 ## I'm a Java | Kotlin Android developer
 
-- 🌱 I’m currently working on a remote internship.
+- 🌱 I’m currently working at Flash Tecnologia e Instituição de Pagamento LTDA.
 - 💡 I´m always looking for new challenges and opportunities.
-- 🥅 2021 Goals: Improve my Java | Kotlin and Android development skills, and earn the Google Associate Android Developer certification
+- 🥅 2023 Goals: Improve my Java | Kotlin and Android development skills, and earn the Google Associate Android Developer certification
 
 ### Connect with me:
 
